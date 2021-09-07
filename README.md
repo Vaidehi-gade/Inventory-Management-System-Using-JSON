@@ -10,3 +10,4 @@ Following functionalities are available in this:
 6]  If customer requests more items that the quantity available in recordInventory, "Product out of stock!" message will be displayed.
 7]  Bill will be generated after every purchase.
 8]  User can delete an item from recordInventory.
+9]  If user enters wrong quantity in recordInventory, the quantity can be updated/changed in recordInventory without affecting other data.
